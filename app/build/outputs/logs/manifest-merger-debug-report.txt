@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fcefced19d57d66748110bd0a70a65db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\749e13a732edb717d49e390e0199cf78\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\65ad3e4020a9aeab3204f32a9e76ff64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\be727d6419c23dd385db8203bf867576\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\1c99fa284836ccb4f749d9721f5176cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a4816982063166812c31fee38361abfd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\018196a74dad19c79b66aaf2633611a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c5ab1f7a1b91ef90ba8b052a10e78c52\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a1841f1bc27782a72457ccefce59f6f4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\fea0482d4be9c3fe075db3b974defef0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2debb86a82c70d6b778258a792f0cb7b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5f647115b77055255a0e49b35fea7c68\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml
+		INJECTED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml
+		ADDED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml
+		ADDED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\749e13a732edb717d49e390e0199cf78\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\749e13a732edb717d49e390e0199cf78\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.dave.weatherapp.MainActivity
+ADDED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml
+INJECTED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fcefced19d57d66748110bd0a70a65db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fcefced19d57d66748110bd0a70a65db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\749e13a732edb717d49e390e0199cf78\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\749e13a732edb717d49e390e0199cf78\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\65ad3e4020a9aeab3204f32a9e76ff64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\65ad3e4020a9aeab3204f32a9e76ff64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\be727d6419c23dd385db8203bf867576\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\be727d6419c23dd385db8203bf867576\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\1c99fa284836ccb4f749d9721f5176cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\1c99fa284836ccb4f749d9721f5176cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a4816982063166812c31fee38361abfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a4816982063166812c31fee38361abfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\018196a74dad19c79b66aaf2633611a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\018196a74dad19c79b66aaf2633611a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c5ab1f7a1b91ef90ba8b052a10e78c52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c5ab1f7a1b91ef90ba8b052a10e78c52\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a1841f1bc27782a72457ccefce59f6f4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a1841f1bc27782a72457ccefce59f6f4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\fea0482d4be9c3fe075db3b974defef0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\fea0482d4be9c3fe075db3b974defef0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2debb86a82c70d6b778258a792f0cb7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2debb86a82c70d6b778258a792f0cb7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5f647115b77055255a0e49b35fea7c68\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dave\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5f647115b77055255a0e49b35fea7c68\AndroidManifest.xml:20:5-44
+INJECTED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml
+INJECTED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml
+		ADDED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml
+		INJECTED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml
+		ADDED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml
+		INJECTED from D:\source\repos\weatherandroid\app\src\main\AndroidManifest.xml
